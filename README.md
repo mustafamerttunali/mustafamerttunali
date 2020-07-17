@@ -1,7 +1,4 @@
 ### Hi, I'm Mert! 👋
-About Me
-Welcome, My name is Mert.
-
 I like solving problems and understanding how things work. I have been working in the field of computer vision for about 4 years. My vision is to develop innovative technologies with using AI in healthcare. I’m interested at analysing medical images using computer vision and deep learning techniques.
 
 I used to work on autonomous cars/robots, however, when I got cancer (lymphoma), I have started to interest at healthcare - medical imaging. My vision has changed after I defeated the cancer. My vision is to develop innovative technologies with using AI in healthcare.
