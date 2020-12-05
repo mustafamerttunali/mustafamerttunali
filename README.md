@@ -2,8 +2,8 @@
 I like solving problems and understanding how things work. I have been working in the field of computer vision for about 4 years. My vision is to develop innovative technologies using AI in healthcare. I'm mentor at Fusion Robotics #7682, teaching programming and computer vision for high school students.
 <br>
 <br>
-tunalim@mef.edu.tr
-<br>
+Contact: tunalim@mef.edu.tr
+mustafamerttunali.github.io<br>
 <br>
 <a href="https://twitter.com/mmerttunali">
   <img align="center" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
