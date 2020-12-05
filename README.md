@@ -3,7 +3,9 @@ I like solving problems and understanding how things work. I have been working i
 <br>
 <br>
 Contact: tunalim@mef.edu.tr
-mustafamerttunali.github.io<br>
+<br>
+mustafamerttunali.github.io
+<br>
 <br>
 <a href="https://twitter.com/mmerttunali">
   <img align="center" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
