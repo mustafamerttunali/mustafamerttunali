@@ -8,10 +8,10 @@ mustafamerttunali.github.io
 <br>
 <br>
 <a href="https://twitter.com/mmerttunali">
-  <img align="center" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="center" alt="Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" />
 </a>
 <a href="https://www.linkedin.com/in/mustafa-mert-tunali/">
-  <img align="center" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Linkdein" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
 </a>
 <br />
 
